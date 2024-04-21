@@ -1,4 +1,4 @@
-This is a SaaS website created purely for practice purpose. 
+This is a SaaS website created purely for practice purposes. 
 It constitute HTML, CSS and JavaScript files.
 
 HTML - index.html
